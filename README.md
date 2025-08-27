@@ -2,7 +2,9 @@
 
 🎓 **Electrical and Computer Engineering Master's Student** @ Rice University (Graduating Jan 2026)  
 🎓 **Bachelor of Electronic & Information Science** @ Fudan University  
-📍 Currently in Houston, open to relocation | 🇸🇬 Looking for 2025 software/AI roles in Singapore  
+📍 Currently in Houston, open to relocation | 🇸🇬 Looking for 2025 software/AI roles in Shanghai
+
+Capstone Project: https://github.com/Rice-MECE-Capstone-Projects/SalesAssistant---Spring-2025.git
 
 ---
 
