@@ -1,8 +1,7 @@
 # Hi, I'm Mingshi Chen 👋
 
-🎓 **Electrical and Computer Engineering Master's Student** @ Rice University (Graduating Jan 2026)  
+🎓 **Electrical and Computer Engineering Master's Student** @ Rice University 
 🎓 **Bachelor of Electronic & Information Science** @ Fudan University  
-📍 Currently in Houston, open to relocation | 🇸🇬 Looking for 2025 software/AI roles in Shanghai
 
 Capstone Project: https://github.com/Rice-MECE-Capstone-Projects/SalesAssistant---Spring-2025.git
 
@@ -53,7 +52,6 @@ I'm passionate about applying machine learning and software engineering to solve
 
 - 📧 mc232@rice.edu  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mingshi-chen-866536328)  
-- 📍 Open to new grad roles in software, AI/ML, or data engineering in **Singapore** (available Feb 2026)
 
 ---
 
