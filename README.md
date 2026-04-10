@@ -1,6 +1,7 @@
 # Hi, I'm Mingshi Chen 👋
 
 🎓 **Electrical and Computer Engineering Master's Student** @ Rice University 
+
 🎓 **Bachelor of Electronic & Information Science** @ Fudan University  
 
 
